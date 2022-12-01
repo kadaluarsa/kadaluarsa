@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=kadaluarsa&label=PROFILE+VISITORS)<br/>
 🌱 I’m currently learning IoT.<br>
 👯 I’m looking to collaborate on any IoT Project.<br> 
 🤔 I’m looking for help with stream data use IoT device.<br>
